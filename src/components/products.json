@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Sneakers",
+    "price": 45000,
+    "category": "shoes",
+    "description": "Comfortable sneakers to be worn for your everyday routine",
+    "image": "/image/sneakers.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Earbuds",
+    "price": 35000,
+    "category": "gadgets",
+    "description": "Earbuds with a bass and loud sound that helps revives your day",
+    "image": "/image/Earbuds.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Classic Wristwatch",
+    "price": 18000,
+    "category": "Accessories",
+    "description": "A classic wristwatch suitable for all kinds of outfit",
+    "image": "/image/Wristwatch.jpg"
+  },
+  {
+    "id": 4,
+    "name": "HP Laptop",
+    "price": 550000,
+    "category": "Electronics",
+    "description": "Suitable for browsing,coding and easy to carry around",
+    "image": "/image/Hp laptop.jpg"
+  },
+  {
+    "id": 5,
+    "name": "T-shirt",
+    "price": 12000,
+    "category": "Clothing",
+    "description": "T-Shirt suitable to wear anytime, anywhere and with any outfit",
+    "image": "/image/T-shirt.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Gold Necklace",
+    "price": 9000,
+    "category": "Jewelry",
+    "description": "A simple necklace that complements casual and formal outfits.",
+    "image": "/image/Gold necklace.jpg"
+  }
+]
