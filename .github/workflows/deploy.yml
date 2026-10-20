@@ -1,4 +1,4 @@
-name: Deploy Product Listing Website
+name: Deploy Product Listing Website to GitHub Pages
 
 on:
   push:

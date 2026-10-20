@@ -5,7 +5,7 @@ function ProductCard({ products }) {
         <article className="product-card" key={product.id}>
           <img
             className="product-image"
-            src={product.image}
+            src={`${import.meta.env.BASE_URL}${product.image}`}
             alt={product.name}
           />
           <div className="product-details">
